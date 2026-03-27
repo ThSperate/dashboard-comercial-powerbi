@@ -69,6 +69,10 @@ Projeto baseado no Curso de Power BI – Hashtag Treinamentos, utilizado como ap
 
 Este projeto tem caráter educacional, com foco no aprendizado prático e construção de portfólio em Business Intelligence.
 
-Projeto desenvolvido por **Thiago Sperate**  
-📎 LinkedIn: https://www.linkedin.com/in/thiagosperate/
+## 👨‍💻 Autor
+
+Thiago Sperate 😎  
+Analista de Dados 📊  
+
+📎 LinkedIn: https://www.linkedin.com/in/thiagosperate/  
 📁 Portfólio: https://github.com/ThSperate
